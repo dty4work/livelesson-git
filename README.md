@@ -30,8 +30,7 @@
 - `git pull <WHERE> <WHAT>`: pulls the <WHAT> branch in <WHERE> to local computer
 - 
 
-## BRANCHES
->>>>>>> merge_conflict
+## BRANCHES - main commit 3
 
 - `git branch <NAME>`: crate branch <NAME> where you are (HEAD)
 - `git switch -c <NAME>`: move to the branch <NAME>
