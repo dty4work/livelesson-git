@@ -30,7 +30,8 @@
 - `git pull <WHERE> <WHAT>`: pulls the <WHAT> branch in <WHERE> to local computer
 - 
 
-## BrANcHeS
+## BRANCHES
+>>>>>>> merge_conflict
 
 - `git branch <NAME>`: crate branch <NAME> where you are (HEAD)
 - `git switch -c <NAME>`: move to the branch <NAME>
@@ -41,7 +42,3 @@
 - `git rebase`: command to change the history of a commit
 	- Commits from `git merge` can be automatically combined
 - `git rebase <BRANCH>`: incorporate changes from <BRANCH> into current branch
-
-- main commit 1
-- main commit 2
-
