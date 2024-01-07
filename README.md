@@ -15,6 +15,9 @@
 	- `git checkout <HASH OR HEAD~>`: restore file to <HASH OR HEAD~>	
 		- `git checkout <HASH OR HAED~>`: if you forget the file, you end up in detach state
 		- `git switch main`: go back to main
+ 
+# remotes
+
 - `git remote add <NAME> <URL>`: adds the <URL> as a remote with the name <NAME>
 	- <NAME> is by convention called `origin`
 - `git remote rm <NAME>`: removes the remote called <NAME>
