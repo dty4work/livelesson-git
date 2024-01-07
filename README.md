@@ -1,4 +1,5 @@
-# Git Notes
+# Git notes for local work
+
 - `git init`: initialize current folder as a git repository
 - `git clone <URL>`: brings the git repo from <URL> to current folder
 - `git status`: telss us what we need to know about our repository
@@ -16,7 +17,7 @@
 		- `git checkout <HASH OR HAED~>`: if you forget the file, you end up in detach state
 		- `git switch main`: go back to main
  
-# remotes
+# working with remotes
 
 - `git remote add <NAME> <URL>`: adds the <URL> as a remote with the name <NAME>
 	- <NAME> is by convention called `origin`
