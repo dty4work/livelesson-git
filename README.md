@@ -38,4 +38,6 @@
 
 
 - `git merge <BRANCH>`: merge <BRANCH> into your current branch
+- `git rebase`: command to change the history of a commit
+	- `git rebase <BRANCH>`: incorporate changes from <BRANCH> into current branch
 
