@@ -36,3 +36,6 @@
 - `git switch -c <NAME>`: move to the branch <NAME>
 	- `git checkout -b <NAME>`: create and move to the branch <NAME> in 1 command
 
+
+- `git merge <BRANCH>`: merge <BRANCH> into your current branch
+
