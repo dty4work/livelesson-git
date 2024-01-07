@@ -29,3 +29,10 @@
 	`git push origin main`
 - `git pull <WHERE> <WHAT>`: pulls the <WHAT> branch in <WHERE> to local computer
 - 
+
+## branches
+
+- `git branch <NAME>`: crate branch <NAME> where you are (HEAD)
+- `git switch -c <NAME>`: move to the branch <NAME>
+	- `git checkout -b <NAME>`: create and move to the branch <NAME> in 1 command
+
