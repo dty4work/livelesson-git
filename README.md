@@ -54,3 +54,7 @@
 	- `git stash apply`: apply your last stash commits
 	- `git stash clear`: clean up your stashes
 
+- A `merge` on the remote is called a "pull request" or "merge request"
+	- `git push <WHERE> <WHAT>`
+	- To updae a PR, we make the changes to the branch locally and re-`push`
+
