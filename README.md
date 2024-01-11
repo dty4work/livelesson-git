@@ -58,3 +58,4 @@
 	- `git push <WHERE> <WHAT>`
 	- To updae a PR, we make the changes to the branch locally and re-`push`
 
+- a merge conflict can happen after a PR is issued
